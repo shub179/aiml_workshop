@@ -1,0 +1,1 @@
+self is the object which is been called,when used in class
